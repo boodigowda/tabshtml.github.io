@@ -1,0 +1,26 @@
+div .phead {
+  font-size: 20px;
+  color: #a2a2a2; }
+
+.container .nav-tabs {
+  border-bottom: none; }
+  .container .nav-tabs li a {
+    color: #a2a2a2;
+    border-color: #a2a2a2;
+    padding: 8px 43px;
+    border-radius: 0.25rem; }
+    .container .nav-tabs li a.nav-link:hover {
+      color: white;
+      background-color: #008d86; }
+
+.tabl {
+  text-align: center; }
+  .tabl .resh {
+    font-weight: 620; }
+  .tabl .resp {
+    font-size: 20px;
+    color: #838383; }
+  .tabl .fa {
+    font-size: 40px; }
+
+/*# sourceMappingURL=master.css.map */
